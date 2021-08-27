@@ -27,6 +27,7 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="slider.php">Slider</a></li>
                     </ul>
                 </div>
             </div>
@@ -73,7 +74,9 @@
                 </div>
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="card h-100">
-                        <img class="card-img-top" src="media/video.mp4" alt="..." />
+                        <div>
+                        <video  class="card-img-top" src="media/video.mp4" alt="..." controls >
+                        </div>
                         <div class="card-body">
                             <h4 class="card-title">Video</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa natus architecto.</p>
@@ -89,6 +92,7 @@
                 </div>
             </div>
         </div>
+        
         <!-- Footer-->
         <footer class="py-5 bg-dark">
             <div class="container"><p class="m-0 text-center text-white">Copyright © 2021</p></div>

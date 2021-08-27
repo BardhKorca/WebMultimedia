@@ -38,7 +38,7 @@
     <footer>
 			<div class="container">
 				<div class="row">
-					<div class="column">Copyright©2019. All Rights Reserved </div>
+					<div class="column">Copyright©2021. All Rights Reserved </div>
 					<div class="column pull-right">
 						<nav class="nav_wrapper">
 					
